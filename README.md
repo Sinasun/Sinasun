@@ -1,16 +1,24 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sina Khodaveisi
+========================================================================================================================================
 
-<!--
-**sinasun/sinasun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Software Engineer.
+--------------------------
 
-Here are some ideas to get you started:
+*   🌍  I'm based in Ottawa, Ontario
+*   🖥️  See my Leetcode profile at <a target="_blank" rel="noreferrer" href='https://leetcode.com/sinasun/'>Profile</a>
+*   🌱  Currently working on projects using C++, Networking and Algorithm.
+*   🤝  I'm open to collaborating on interesting projects as a developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+ - C++
+ - Python
+ - Networking
+ - Algorithm
+ - ReactJS/GatsbyJS/NextJS Developer
+ - HTML/CSS/JavaScript
+ - TypeScript
+
+### Socials
+
+<p align="left"> <a href="https://www.linkedin.com/in/sina-khodaveisi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
