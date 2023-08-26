@@ -6,7 +6,7 @@ I am Software Engineer.
 
 *   🌍  I'm based in Ottawa, Ontario
 *   🖥️  See my Leetcode profile at <a target="_blank" rel="noreferrer" href='https://leetcode.com/sinasun/'>Profile</a>
-*   🌱  Currently working on projects using C++, Networking and Algorithm.
+*   🌱  Interested in Embedded Systems and Machine Learning.
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
