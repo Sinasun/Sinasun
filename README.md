@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinasun&title=MultiLanguage,Commits,Experience,Followers,Stars,PullRequest" alt="sinasun" /></a> </p>
 
-- 🌱 Interested in **Algorithm and Embedded Systems.**
+- 🌱 Interested in **Machine Learning and Software Engineering.**
 
-- 👨‍💻 I'm open to new collaborations, **and learning.**
+- 👨‍💻 I'm open to new collaborations, **and learning. To do a project together just connect with me on my linkedin!**
 
 - 📫 You can reach me via my **Linkedin or Email**
 
