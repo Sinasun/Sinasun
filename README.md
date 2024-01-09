@@ -15,7 +15,11 @@
 <br/>
 <br/>
 
-<p align="center"><a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=sinasun&theme=onedark&title=MultiLanguage,Commits,Experience,Followers,Stars,PullRequest" alt="sinasun" /></a></p>
+<p align="center" style="text-align: center;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=sinasun&theme=onedark&title=MultiLanguage,Commits,Experience,Followers,Stars,PullRequest" alt="sinasun" />
+    </a>
+</p>
 
 <br/>
 
