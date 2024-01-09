@@ -17,7 +17,6 @@
         <br>
         Struggle doesn't end.
         <br>
-        <b>BTW I USE ARCH</b>
     </p>
 
 </div>
