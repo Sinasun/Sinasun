@@ -8,15 +8,22 @@
     <br><br>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinasun&theme=onedark" alt="streak-stats" />
     <br><br>
+    <h1 aligh="left">
+    I am Software Engineer.
+    </h1>
     <p align="left">
-        Never thought of destroying, so I'm building interesting things.
+        🌍  I'm based in Ottawa, Ontario
         <br>
-        In the battle of one versus many.
-        <br>
-        Interested in deep learning papers.
-        <br>
-        Struggle doesn't end.
+        🤝  I'm open to collaborating on interesting projects as a developer
         <br>
     </p>
-
+    <h3 align="left">Skills</h3>
+    <p align="left">
+        ReactJS/GatsbyJS/NextJS Developer
+        <br>
+        HTML/CSS/JavaScript and TypeScript
+        <br>
+    </p>
+    <h3 align="left">Socials</h3>
+    <p align="left"> <a href="https://www.linkedin.com/in/sina-khodaveisi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
 </div>
