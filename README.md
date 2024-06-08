@@ -1,28 +1,14 @@
-<div align="center">
+background image credit @luciascarlet
 
-[![Header Gif](assets/header.gif)](https://github.com/sinasun)
-
-</div>
-<div align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=sinasun&label=Profile%20views&color=0e75b6&style=flat" alt="sinasun" />
-    <br><br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinasun&theme=onedark" alt="streak-stats" />
-    <br><br>
-    <h1 aligh="left">
-    I am Frontend Developer.
-    </h1>
-    <p align="left">
-        🌍  I'm based in Ottawa, Ontario
-        <br>
-        🤝  I'm open to collaborating on interesting projects as a developer
-    </p>
-    <h3 align="left">Skills</h3>
-    <p align="left">
-        ReactJS/GatsbyJS/NextJS Developer
-        <br>
-        <br>
-        HTML/CSS/JavaScript and TypeScript
-    </p>
-    <h3 align="left">Socials</h3>
-    <p align="left"> <a href="https://www.linkedin.com/in/sina-khodaveisi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
-</div>
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1.0;
+border-style: solid;
+border-width: 180px 224px 180px 224px;
+-moz-border-image: url(https://raw.githubusercontent.com/sinasun/sinasun/main/border.png) 180 224 180 224 round round;
+-webkit-border-image: url(https://raw.githubusercontent.com/sinasun/sinasun/main/border.png) 180 224 180 224 round round;
+-o-border-image: url(https://raw.githubusercontent.com/sinasun/sinasun/main/border.png) 180 224 180 224 round round;
+border-image: url(https://raw.githubusercontent.com/sinasun/sinasun/main/border.png) 180 224 180 224 round round;
+background-attachment: fixed !important;
+background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), color(display-p3 0.5 0 0 / 0.5));
+background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(128, 0, 0, 0.5));');]{x0000}$}
+```
